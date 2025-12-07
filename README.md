@@ -11,5 +11,9 @@ This project is a smooth GSAP-based image animation where three beautiful nature
 - HTML  
 - CSS  
 - GSAP
+- 
+  ## Live Demo
+  You can view the live version of the project here:
+👉 [View Project](https://animated-landing-ui.netlify.app/)
 
 ### Made with ❤️ By [Aksa Ansari](https://github.com/Aksa-Ansari)
